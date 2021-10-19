@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Python
 - 📫 How to reach me ?
 baha.etc@gmail.com
-fb.com/bibohamdi
 
 <!---
 BohBOhTN/BohBOhTN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
