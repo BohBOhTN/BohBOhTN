@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BohBOhTN
-- 👀 I’m interested in ...
+- 👀 I’m interested in DevOps
 - 🌱 I’m currently learning Python
 - 📫 How to reach me ?
 baha.etc@gmail.com
