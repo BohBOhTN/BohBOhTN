@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @BohBOhTN
-- 👀 I’m interested in DevOps
-- 🌱 I’m currently learning Python
+👋 Hi, I'm Baha Eddine Hamdi!
+🎓 Computer Science student passionate about technology and hands-on learning.
+💻 I love leveraging AI to enhance knowledge and turn ideas into projects.
+🐍 Python enthusiast exploring the world of cloud technology by implementing projects as I learn.
 - 📫 How to reach me ?
 baha.etc@gmail.com
 
